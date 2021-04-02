@@ -1,0 +1,8 @@
+# Ignoring directories
+target/
+out/
+src/main/resources/public/
+.idea/
+logs/
+# Ignoring files extensions
+*.iml
